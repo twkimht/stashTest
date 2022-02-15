@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme">
+        <item name="Icon">@drawable/main_ic_app_setting</item>
+    </style>
+</resources>
